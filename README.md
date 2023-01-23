@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amar-m-cloud/](https://github.com/amar-m-cloud/)
 
-- 📝 I regularly write articles on [https://www.amarmattaparthi.com/](https://www.amarmattaparthi.com/)
+- 📝 I regularly write articles on [https://www.amarmattaparthi.com/](https://amarmcloud.rf.gd/)
 
 - 📫 How to reach me **info@amarmattaparthi.com**
 
