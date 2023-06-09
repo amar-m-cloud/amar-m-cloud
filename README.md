@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm AMAR MATTAPARTHI</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Lead DevOps Engineer from Hyderabad, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-m-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="amar-m-cloud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-m-cloud" alt="amar-m-cloud" /></a> </p>
 
-- 🔭 I’m currently working on **SocialTek AI & ML Business Solutions**
+- 🔭 I’m currently working at **SocialTek AI & ML Business Solutions**
 
 - 🌱 I’m currently learning **AWS, DevOps, Python**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.amarmattaparthi.com/](https://amarmcloud.rf.gd/)
 
-- 📫 How to reach me **info@amarmattaparthi.com**
+- 📫 How to reach me [info@amarmattaparthi.com](amarmattaparthi.aws@gmail.com)
 
 - 📄 Know about my experiences [https://www.amarmattaparthi.xyz/](https://www.amarmattaparthi.xyz/)
 
