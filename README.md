@@ -112,14 +112,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31dgwzfuoxmhdyekbe23ztdtwumy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/amar-m-cloud/amar-m-cloud/output/snake.svg" alt="Snake animation" />
 
 ###
