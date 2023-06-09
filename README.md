@@ -111,7 +111,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/amar-m-cloud/amar-m-cloud/output/snake.svg" alt="Snake animation" />
-
-###
