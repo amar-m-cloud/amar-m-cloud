@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Amar Mattaparthi from Hyderabad, India<br><br>- 🔭 I’m working as Lead Cloud Engineer<br>- 📚 I'm currently learning AWS, DevOps<br>- ⚡ In my free time I work on Improving my skills</p>
+<p align="left">I'm Amar Tech in Cloud from Hyderabad, India<br><br>- 🔭 I’m working as Lead Cloud Engineer<br>- 📚 I'm currently learning AWS, DevOps<br>- ⚡ In my free time I work on Improving my skills</p>
 
 ###
 
